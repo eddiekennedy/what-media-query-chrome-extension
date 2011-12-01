@@ -1,0 +1,13 @@
+{
+  "name": "What Media Query?",
+  "version": "1.0",
+  "description": "Displays current media query",
+  "background_page": "mq.html",
+  "permissions": [
+    "tabs", "http://*/*"
+  ],
+  "browser_action": {
+      "name": "What Media Query?",
+      "default_icon": "icon.png"
+  }
+}

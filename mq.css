@@ -1,0 +1,15 @@
+body:after {
+    content: "";
+    font-size: 35px;
+	line-height:35px;
+	font-family:courier, verdana, sans-serif;
+	padding:10px 5% 15px;
+    font-weight: 700;
+    position: fixed;
+    bottom: 25%;
+    width: 90%;
+    text-align: center;
+    color: #fff;
+	-webkit-text-stroke: 1px rgba(0,0,0,0.5);
+	z-index:10000;
+}
